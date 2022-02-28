@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Further instruction for Cap: Thomas Allen touching the execution of his commission; bearing date the eight day of January, 1649.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92101</idno>
+            <idno type="STC">Wing R2297</idno>
+            <idno type="STC">Thomason E560_5</idno>
+            <idno type="STC">ESTC R205972</idno>
+            <idno type="EEBO-CITATION">99865186</idno>
+            <idno type="PROQUEST">99865186</idno>
+            <idno type="VID">117423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117423)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E560[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Further instruction for Cap: Thomas Allen touching the execution of his commission; bearing date the eight day of January, 1649.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons in Aldersgate-streete,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Rupert.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>With a parliamentary order to print on p.[2].</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117423:1" rendition="simple:additions"/>
+            <p>FURTHER INSTRUCTIONS FOR Cap: Thomas Allen Touching the Execution of his Commiſſion; bearing date the Eight day of <hi>January,</hi> 1649.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>M. Simmons</hi> in <hi>Alderſgate-ſtreete.</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117423:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap> to the late K. his uncle, or to him whom he reputes his Succeſſor, hath bin the cauſe which hath mov'd him to what he hath doe, ſince his actions, and demeanour, eſpecialy his delivering up of <hi>Briſtow</hi> hath render him to the moſt of his own party, not ſuſpected only but hated; as one ſufficiently diſcoverd to have no other aime or intereſt, but, as the proverb is, <hi>to fiſh in troubled waters,</hi> and to patch up his own indigent fortunes, with the ſpoile and robbery of whomſoever. The reſt of his piraticall arts, and who are his re<g ref="char:EOLhyphen"/>ceavers, who his interlopers, together with the whole model of his trade, may be read plain anough in the inſtructions themſelves, which were happily intercepted, and heer preſented to public view, not his inſtructi<g ref="char:EOLhyphen"/>ons, but diſcoveries to fore-arme all thoſe whoſe affaires neceſſitate them to traffic, or Sea voiage.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117423:2"/>
+            <head>FURTHER INSTRUCTIONS FOR Cap: THOMAS ALLEN touching the execution of his Commiſſion; bearing date the Eight day of <hi>January,</hi> 1649.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen you have taken any Prize from any of the Rebells againſt the King of <hi>England,</hi> or their aſſiſtants, you ſhall come to <hi>Neuport</hi> Rode, or to the Peere<g ref="char:EOLhyphen"/>head there, and lade the Goods into <hi>Billanders,</hi> for <hi>Dort,</hi> and conſign them to M<hi rend="sup">r</hi>
+               <hi>Cornelius Vande Graef,</hi> the ſraight to pay. But firſt take away the Markes, and unpack the Goods, and put them in<g ref="char:EOLhyphen"/>to new Cloth packes, and give order to the <hi>Billander</hi>-men, and to ſome truſty men, whom you ſhall ſend with them, to paſſe by <hi>Zealand</hi> without ſtay, to eſcape viſitation: Keepe all your Priſoners ſafe aboard your own Ships, ſuffer none of them to remain in the Pri<g ref="char:EOLhyphen"/>zes, till you may conveniently ſend them on ſhore in
+<hi>England</hi> or <hi>France</hi> after that the Goods are ſold, and
+<pb facs="tcp:117423:3"/>the whole Fleete put out to Sea; to prevent noiſe and diſcovery.</p>
+            <p>If you take a Ship laden with coſtly Goods, thou ſend her with truſty men into
+<hi>Gordy,</hi> &amp; give them In<g ref="char:EOLhyphen"/>ſtructions to run up the River towards <hi>wilderland,</hi> and thence ſend ſpeedily to M<hi rend="sup">r</hi>. <hi>Cornelius Vande Graef,</hi> to give notice to M<hi rend="sup">r</hi>.
+<hi>Revixit van Naſſen</hi> at <hi>Rotterdam</hi> with all haſt to come to you. But be ſure to give me ſpeedy notice thereof if I ſhall be here. And then get what ready money you can for the Goods, and ap<g ref="char:EOLhyphen"/>point what remaines unpaid to be returned unto mee or to whom I ſhall appoint by Bill of Exchange from M<hi rend="sup">r</hi>. <hi>Revixit van Naſſen</hi> ſon in <hi>Nants,</hi> in as ſhort a time as may be obtained.</p>
+            <p>If you take any Prizes where you cannot ſo conve<g ref="char:EOLhyphen"/>niently carry them as aforeſaid, you may cauſe them to be carried into the <hi>Balke,</hi> and to goe up ſo near <hi>VVeareing,</hi> as you may lye out of right of any Ships going out or in at the <hi>Texell;</hi> there hire a Boate, and ſend one of the truſtieſt men to M<hi rend="sup">r</hi>. <hi>Zacharie Lapie,</hi> Engliſh Merchant at
+<hi>Eucuſen,</hi> and procure him to goe aboard with your Meſſenger, and agree with him for ſale of the Goods, for ready money, and ſuch noceſſa<g ref="char:EOLhyphen"/>ries as you want, which he will furniſh you with: Keep cloſe the Ships company of the Prize, as before is appointed you: and let it not be knowne whence M<hi rend="sup">r</hi> 
+               <hi>Lapie</hi> comes, let him enter the Ship from what place he thinkes ſit, according to the ſorts of the Goods, and then bring Lighters to unloade them, and to bring to your Ships any ſupplyes that you want but let not your Ships ſtirre out of the
+<hi>Balke</hi> till they goe to Sea againe, nor ſuffer any of the Com<g ref="char:EOLhyphen"/>mon men to goe on ſhore, to avoyd diſcovery.</p>
+            <pb facs="tcp:117423:3"/>
+            <p>If you ſhall meete with Prizes coming out of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> ſend them for
+<hi>Flanders,</hi> and ſuch as come from <hi>Flanders</hi> or <hi>France,</hi> ſend for
+<hi>Holland</hi> if you ſhall heare that Marſhall <hi>Rantzewe</hi> is at <hi>Dun<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k,</hi> you may have a ſafe Harbour at that Port.</p>
+            <p>If you cannot bring your Prizes into any the afore<g ref="char:EOLhyphen"/>mentioned places to be ſold, then in caſes of neceſſity you may diſpoſe of them as you ſhall conceive to be for the beſt advantage of his Highneſſe the Prince of <hi>VVales</hi> his ſervice, wherein there is great truſt re<g ref="char:EOLhyphen"/>poſed in your care and fidelity, whereof you are to be carefull to give a good accompt.</p>
+            <p>Your Randezvous is <hi>Helvert</hi> Sluce, in caſe you can put in thither within eighteen dayes after the date hereof. But if you ſhall finde that the Fleete is gone from thence, then if you perceive by the windes that the Fleete is gone Northward, your Randezvous muſt be
+<hi>Hamburrough</hi> head: But if you ſhall judge by the winds, that the Fleete is gone towards the Chanell Weſtward, you are to follow that way, and your Ran<g ref="char:EOLhyphen"/>dezvous is <hi>Silley</hi> or
+<hi>Pell Iſle,</hi> according as you ſhall finde the winds to blowe, or meet with any advertiſe<g ref="char:EOLhyphen"/>ment or Commands from me to direct you to the Fleete, which you are to endeavour with all ſpeed to come unto.</p>
+            <p>If you ſhall not heare of the Fleete in any of the places appointed for your Randezous, you are to ſtay about <hi>Silley,</hi> and to doe there what you ſhall con<g ref="char:EOLhyphen"/>ceive to be beſt for the Kings ſervice in taking Prizes, and further execution of your Commiſſion and Or<g ref="char:EOLhyphen"/>ders. And when you finde your victuals to begin to be ſcant, then you are to goe towards <hi>Corke</hi> in
+<hi>Ireland,</hi> keeping there out of Command of the Land, untill
+<pb facs="tcp:117423:4"/>you be informed how things goe in <hi>Ireland,</hi> in or<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to your ſafety there; And if you may goe ſafely <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Kingſale,</hi> then you are to goe into that Port.</p>
+            <p>You are immediatly upon the taking of any <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be very carefull to advertiſe me from time to time what Ships or Veſſels you ſhall ſeiſe, what the value of them may be, to what place, and to whom they
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long, and where you intend to ſend them. And for my better ſatisfaction, you are to ſend me upon
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> occaſions, Expreſſes, with Copies of ſuch L<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ters, Invoices, and bills of lading, as are of impor<g ref="char:EOLhyphen"/>tance.</p>
+            <closer>
+               <dateline>
+                  <hi>Given this</hi>
+                  <date>8<hi rend="sup">th</hi> 
+                     <hi>of</hi> Janury 1649.</date> 
+                  <hi>New ſtile.</hi>
+               </dateline>
+               <signed>R<g ref="char:V">Ʋ</g>PERT.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
